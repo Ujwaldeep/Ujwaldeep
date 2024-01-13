@@ -3,16 +3,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python GUI
+- 🔭 &nbsp; I’m currently learning Microservices
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Cartoons and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++  
+- 💻 &nbsp; C | C++  | Java | Spring Boot | Spring | Kotlin | Python  
 - 🌐 &nbsp;  | HTML | CSS 
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp;  Visual Studio code | Git |Dev C++
